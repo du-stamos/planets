@@ -1,2 +1,3 @@
 The moon orbits the earth.
 The moon is dark.
+The moon is dry
